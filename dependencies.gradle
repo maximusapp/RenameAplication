@@ -1,0 +1,7 @@
+ext {
+
+}
+
+static String buildDependency(String paсk, String dependency, String version){
+    return "${paсk}:${dependency}:${version}"
+}
