@@ -1,7 +1,8 @@
-package com.renameaplication.renameaplication
+package com.renameaplication.renameaplication.mainactivity
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.renameaplication.renameaplication.R
 
 class MainActivity : AppCompatActivity() {
 
